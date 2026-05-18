@@ -1,0 +1,11 @@
+Date,Produit,Categorie,Region,Quantite,Prix_Unitaire
+2024-01-05,PC Portable,Informatique,Casablanca,4,8500
+2024-01-07,Souris,Accessoire,Rabat,20,120
+2024-01-12,Clavier,Accessoire,Casablanca,15,250
+2024-01-15,Ecran,Informatique,Tanger,6,1800
+2024-01-18,PC Portable,Informatique,Rabat,,8500
+2024-01-20,Imprimante,Informatique,Casablanca,3,2200
+2024-01-25,Souris,Accessoire,Tanger,30,120
+2024-01-28,Clavier,Accessoire,Rabat,10,
+2024-02-02,Ecran,Informatique,Casablanca,5,1800
+2024-02-05,Imprimante,Informatique,Tanger,2,2200
